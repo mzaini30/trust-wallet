@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  kunci: ^1.5.3
+
+dependencies:
+  kunci: 1.5.3
+
+packages:
+
+  /kunci/1.5.3:
+    resolution: {integrity: sha512-/2N5GCahRQD8Ht3GOin7BScSLFPpSS93cAi6RbHIUJFIkO3sMCaHgFvOa4I51JjlOsfrqZ8yJ0DewWiThxjOiw==}
+    hasBin: true
+    dev: false
